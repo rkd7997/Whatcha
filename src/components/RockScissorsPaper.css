@@ -1,0 +1,10 @@
+.RockScissorsPaper {
+  border: 1px solid black;
+  padding: 1rem;
+  width: 19rem
+}
+
+.RockScissorsPaper h1 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
